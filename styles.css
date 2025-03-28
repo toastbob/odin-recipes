@@ -1,3 +1,29 @@
 body {
     text-align: center;
+    background-color: #f1edb4;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: #333;
+}
+
+h1 {
+    font-size: 52px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+li {
+    text-align: left;
+}
+
+.recipe-list li{
+    text-align: center;
+    list-style-position: inside;
 }
